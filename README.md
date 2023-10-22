@@ -1,4 +1,4 @@
-# travis 
+# Travis 
 
 - Tell travis we need a copy of docker running
 - Build our image using Dockerfile.dev
